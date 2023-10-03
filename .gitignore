@@ -6,4 +6,5 @@ blib/
 Makefile
 MYMETA.*
 META.*
+MANIFEST.bak
 .dataprinter
