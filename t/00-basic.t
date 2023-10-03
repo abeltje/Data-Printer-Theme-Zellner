@@ -1,7 +1,5 @@
 #! perl -I. -w
-use strict;
-
-use Test::More;
+use t::Test::abeltje;
 
 use Data::Printer theme => "Zellner";
 
@@ -87,4 +85,4 @@ my $esc = chr(27);
     );
 }
 
-done_testing();
+abeltje_done_testing();
