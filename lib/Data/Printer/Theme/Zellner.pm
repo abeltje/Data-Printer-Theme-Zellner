@@ -2,7 +2,7 @@ package Data::Printer::Theme::Zellner;
 use warnings;
 use strict;
 
-our $VERSION = '0.02';
+our $VERSION = "0.02_00";
 
 sub colors {
     return {
